@@ -1,3 +1,5 @@
+Closet - Your Daily Outfit Generator
+
 Closet is a Java application designed to help users effortlessly generate their outfits of the day based on their clothing collection and the current weather conditions. Whether you're preparing for work, a casual day out, or a special occasion, Closet has got you covered.
 
 Features
